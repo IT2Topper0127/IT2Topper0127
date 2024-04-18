@@ -10,10 +10,10 @@
 <table>
   <tr>
     <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" alt="React" />
+        <img src="https://skillicons.dev/icons?i=py" width="100" />
     </td>
     <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=go" width="100" alt="Go" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" alt="React" />
     </td>
     <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=vue" width="100" alt="Vue" />
@@ -102,7 +102,7 @@
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="100" />
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="100" />
+        <img src="https://skillicons.dev/icons?i=go" width="100" alt="Go" />
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=dotnet" width="100" />
