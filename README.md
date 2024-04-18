@@ -122,11 +122,5 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wisamosman&" alt="wisamosman" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wisamosman&label=Profile%20views&color=0e75b6&style=flat" alt="wisamosman" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wisamosman" alt="wisamosman" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/IT2Topper0127](https://github.com/IT2Topper0127)
+- 👨‍💻 All of my portfolio are available at [https://IT2Topper0127.github.io/portfolio](https://IT2Topper0127.github.io/portfolio)
 
